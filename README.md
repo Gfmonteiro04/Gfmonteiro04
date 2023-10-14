@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/L0wwwA-J-EsAAAAd/golden-retriever-golden-retriever-annoyed.gif"  />
+  <img height="150" src= "https://tenor.com/pt-BR/view/spike-cowboy-bebop-badr-gif-24257932.gif"/>
 </div>
 
 ###
