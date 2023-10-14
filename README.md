@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src= "https://tenor.com/pt-BR/view/spike-cowboy-bebop-badr-gif-24257932.gif"/>
+  <img height="200" src= "https://tenor.com/pt-BR/view/spike-cowboy-bebop-badr-gif-24257932.gif"/>
 </div>
 
 ###
